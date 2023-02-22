@@ -1,0 +1,10 @@
+.content{
+    border:dotted 2px;
+   
+   border-color: black;
+}
+.text{
+    border: solid blue 2px;
+    padding: 20px;
+    margin: 5%; 
+}
